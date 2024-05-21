@@ -6,10 +6,10 @@ A curated list of awesome resources related to enhancing Email Security. Contrib
 ## Table of Contents
 
 - [Resources](#resources)
+  - [Email Authentication](#email-authentication)
   - [Email Filtering](#email-filtering)
   - [Email Encryption](#email-encryption)
   - [Phishing Protection](#phishing-protection)
-  - [Email Authentication](#email-authentication)
   - [Security Awareness Training](#security-awareness-training)
 - [Contributing](#contributing)
 - [License](#license)
