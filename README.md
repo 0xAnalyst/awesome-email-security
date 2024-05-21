@@ -50,8 +50,9 @@ A curated list of awesome resources related to enhancing Email Security. Contrib
 ### Email Authentication
 
 #### SPF (Sender Policy Framework)
-- **[Resource Name](https://example.com)** - Brief description of the resource.
-- **[Resource Name](https://example.com)** - Brief description of the resource.
+- **[SPF Introduction - PowerDMARC]([(https://powerdmarc.com/what-is-spf/)))** - Brief description of the resource.
+- **[SPF Introduction - DMARCIAN]((https://dmarcian.com/what-is-spf/)))**
+- **[SPF Record Setup](https://powerdmarc.com/how-to-setup-spf/))** - Brief description of the resource.
 
 #### DKIM (DomainKeys Identified Mail)
 - **[Resource Name](https://example.com)** - Brief description of the resource.
