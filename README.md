@@ -59,7 +59,7 @@ A curated list of awesome resources related to enhancing Email Security. Contrib
 
 #### DMARC (Domain-based Message Authentication, Reporting, and Conformance)
 - **[DMARC Introduction](https://www.techfry.com/webmaster-tips/domain-based-message-authentication-reporting-conformance-dmarc)** -  an introductory explanation of DMARC and how it works
-- **[Resource Name](https://example.com)** - Brief description of the resource.
+- **[DMARC Explanation]([https://example.com](https://www.mailmodo.com/guides/dmarc/))** - Good DMARC alignment explanation .
 
 ### Security Awareness Training
 
