@@ -42,7 +42,7 @@ A curated list of awesome resources related to enhancing Email Security. Contrib
 #### Anti-Spam Solutions
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 - **[Resource Name](https://example.com)** - Brief description of the resource.
-- **[Resource Name](https://learn.microsoft.com/en-us/defender-office-365/eop-about)** - Exchange Online Email Filtering Details.
+- **[Exchange Online Email Filtering](https://learn.microsoft.com/en-us/defender-office-365/eop-about)** - Exchange Online Email Filtering Details.
 
 #### File Extensions Filtering
 - **[Resource Name](https://example.com)** - Brief description of the resource.
