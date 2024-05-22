@@ -35,7 +35,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 
 #### BIMI (Brand Indicators for Message Identification,)
 - **[BIMI Compete Guide](https://powerdmarc.com/your-complete-guide-to-bimi/)** - BIMI Introduction and Compelete guide.
-- **[Resource Name](https://example.com)** - Brief description of the resource.
+- **[BIMI Implementation Guide](https://bimigroup.org/implementation-guide/)** -  BIMI Group Implementation guide
 
 ### Email Filtering
 
