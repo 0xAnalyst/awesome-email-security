@@ -64,7 +64,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 
 #### Transport Layer Security (TLS) for Email Transport
-- **[Resource Name](https://example.com)** - Brief description of the resource.
+- **[STARTTLS](https://emaillabs.io/en/what-is-starttls/)** - An Explainer for STARTTLS and Opportunistic TLS vs Forced TLS
 - **[Email Transport Encryption Protocols](https://certified-senders.org/wp-content/uploads/2020/02/Email-Transport-Encryption-STARTTLS-vs.-DANE-vs.-MTA-STS_updated.pdf)** - Explains the difference between STARTLS,DANE,MTA-STS.
 - 
 
