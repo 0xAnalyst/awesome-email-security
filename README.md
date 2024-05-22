@@ -18,6 +18,25 @@ A curated list of awesome resources related to enhancing Email Security. Contrib
 
 ## Resources
 
+### Email Authentication
+
+#### SPF (Sender Policy Framework)
+- **[SPF Introduction ](https://powerdmarc.com/what-is-spf/)** - SPF Explanation by PowerDMARC.
+- **[SPF Introduction ](https://dmarcian.com/what-is-spf/)**   - SPF Explanation by Dmarcian
+- **[SPF Record Setup](https://powerdmarc.com/how-to-setup-spf/)** - Brief description of the resource.
+
+#### DKIM (DomainKeys Identified Mail)
+- **[Resource Name](https://example.com)** - Brief description of the resource.
+- **[DKIM Technical Details](https://easydmarc.com/blog/what-is-a-dkim-signature/)** - Technical Deep Dive on DKIM.
+
+#### DMARC (Domain-based Message Authentication, Reporting, and Conformance)
+- **[DMARC Introduction](https://www.techfry.com/webmaster-tips/domain-based-message-authentication-reporting-conformance-dmarc)** -  an introductory explanation of DMARC and how it works
+- **[DMARC Explanation](https://www.mailmodo.com/guides/dmarc/)** - Good DMARC alignment explanation .
+
+#### BIMI (Brand Indicators for Message Identification,)
+- **[BIMI Compete Guide](https://powerdmarc.com/your-complete-guide-to-bimi/)** - BIMI Introduction and Compelete guide.
+- **[Resource Name](https://example.com)** - Brief description of the resource.
+
 ### Email Filtering
 
 #### Anti-Spam Solutions
@@ -46,25 +65,6 @@ A curated list of awesome resources related to enhancing Email Security. Contrib
 
 #### User Education and Awareness Programs
 - **[Resource Name](https://example.com)** - Brief description of the resource.
-- **[Resource Name](https://example.com)** - Brief description of the resource.
-
-### Email Authentication
-
-#### SPF (Sender Policy Framework)
-- **[SPF Introduction ](https://powerdmarc.com/what-is-spf/)** - SPF Explanation by PowerDMARC.
-- **[SPF Introduction ](https://dmarcian.com/what-is-spf/)**   - SPF Explanation by Dmarcian
-- **[SPF Record Setup](https://powerdmarc.com/how-to-setup-spf/)** - Brief description of the resource.
-
-#### DKIM (DomainKeys Identified Mail)
-- **[Resource Name](https://example.com)** - Brief description of the resource.
-- **[DKIM Technical Details](https://easydmarc.com/blog/what-is-a-dkim-signature/)** - Technical Deep Dive on DKIM.
-
-#### DMARC (Domain-based Message Authentication, Reporting, and Conformance)
-- **[DMARC Introduction](https://www.techfry.com/webmaster-tips/domain-based-message-authentication-reporting-conformance-dmarc)** -  an introductory explanation of DMARC and how it works
-- **[DMARC Explanation](https://www.mailmodo.com/guides/dmarc/)** - Good DMARC alignment explanation .
-
-#### BIMI (Brand Indicators for Message Identification,)
-- **[BIMI Compete Guide](https://powerdmarc.com/your-complete-guide-to-bimi/)** - BIMI Introduction and Compelete guide.
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 ### Security Awareness Training
 
