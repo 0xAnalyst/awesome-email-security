@@ -80,7 +80,7 @@ A curated list of awesome resources related to enhancing Email Security. Contrib
 #### Email Header Analysis
 - **[Microsoft MHA](https://mha.azurewebsites.net/)** - Microsoft Email Header Analysis.
 - **[Mxtoolbox MHA](https://mxtoolbox.com/EmailHeaders.aspx)** - MxToolBox Email Header Analyzer
-- **[Mxtoolbox MHA](https://github.com/cyberdefenders/email-header-analyzer)** - Excellent Email Header Analyzer that can be deployed locally                   - 
+- **[CyberDefenders MHA](https://github.com/cyberdefenders/email-header-analyzer)** - Excellent Email Header Analyzer that can be deployed locally              
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
