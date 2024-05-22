@@ -23,7 +23,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 #### SPF (Sender Policy Framework)
 - **[SPF Introduction ](https://powerdmarc.com/what-is-spf/)** - SPF Explanation by PowerDMARC.
 - **[SPF Introduction ](https://dmarcian.com/what-is-spf/)**   - SPF Explanation by Dmarcian
-- **[SPF Record Setup](https://powerdmarc.com/how-to-setup-spf/)** - Brief description of the resource.
+- **[SPF Record Setup](https://powerdmarc.com/how-to-setup-spf/)** - SPF Record Setup by PowerDMARC.
 
 #### DKIM (DomainKeys Identified Mail)
 - **[Resource Name](https://example.com)** - Brief description of the resource.
