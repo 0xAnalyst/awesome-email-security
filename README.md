@@ -56,7 +56,7 @@ A curated list of awesome resources related to enhancing Email Security. Contrib
 
 #### DKIM (DomainKeys Identified Mail)
 - **[Resource Name](https://example.com)** - Brief description of the resource.
-- **[DKIM Technical Details]((https://easydmarc.com/blog/what-is-a-dkim-signature/))** - Technical Deep Dive on DKIM.
+- **[DKIM Technical Details](https://easydmarc.com/blog/what-is-a-dkim-signature/)** - Technical Deep Dive on DKIM.
 
 #### DMARC (Domain-based Message Authentication, Reporting, and Conformance)
 - **[DMARC Introduction](https://www.techfry.com/webmaster-tips/domain-based-message-authentication-reporting-conformance-dmarc)** -  an introductory explanation of DMARC and how it works
