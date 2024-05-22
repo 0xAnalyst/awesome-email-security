@@ -33,9 +33,12 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 - **[DMARC Introduction](https://www.techfry.com/webmaster-tips/domain-based-message-authentication-reporting-conformance-dmarc)** -  an introductory explanation of DMARC and how it works
 - **[DMARC Explanation](https://www.mailmodo.com/guides/dmarc/)** - Good DMARC alignment explanation .
 
-#### BIMI (Brand Indicators for Message Identification,)
+#### BIMI (Brand Indicators for Message Identification)
 - **[BIMI Compete Guide](https://powerdmarc.com/your-complete-guide-to-bimi/)** - BIMI Introduction and Compelete guide.
 - **[BIMI Implementation Guide](https://bimigroup.org/implementation-guide/)** -  BIMI Group Implementation guide
+
+#### MTA-STS (Mail Transfer Agent Strict Transport Security)
+- **[MTA-STS Introduction and Implemenation](https://powerdmarc.com/what-is-mta-sts-and-why-do-you-need-it/)** -  A guide on MTA-STS by PowerDMARC
 
 ### Email Filtering
 
