@@ -65,7 +65,8 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 
 #### Transport Layer Security (TLS) for Email Transport
 - **[Resource Name](https://example.com)** - Brief description of the resource.
-- **[Resource Name](https://example.com)** - Brief description of the resource.
+- **[Email Transport Encryption Protocols](https://certified-senders.org/wp-content/uploads/2020/02/Email-Transport-Encryption-STARTTLS-vs.-DANE-vs.-MTA-STS_updated.pdf)** - Explains the difference between STARTLS,DANE,MTA-STS.
+- 
 
 ### Phishing Protection
 
