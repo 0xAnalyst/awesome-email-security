@@ -40,7 +40,7 @@ A curated list of awesome resources related to enhancing Email Security. Contrib
 ### Email Filtering
 
 #### Anti-Spam Solutions
-- **[Resource Name](https://example.com)** - Brief description of the resource.
+- **[Email Filtering concepts](https://abnormalsecurity.com/glossary/email-filters)** - Introduction To email Filtering concepts and different types of spam filtering.
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 - **[Exchange Online Email Filtering](https://learn.microsoft.com/en-us/defender-office-365/eop-about)** - Exchange Online Email Filtering Details.
 
