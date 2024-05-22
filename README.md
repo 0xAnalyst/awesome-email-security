@@ -93,6 +93,8 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 - **[Mxtoolbox DMARC Report Analyzer](https://mxtoolbox.com/DmarcReportAnalyzer.aspx)** - MxToolBox DMARC Report Analyzer
 - **[OpenSource DMARC Report Analyzer](https://github.com/userjack6880/Open-DMARC-Analyzer)** - Open Source DMARC Report Analyzer 
 
+#### Commercial Email Security Tools
+#### Open Source Email Security Tools
 
 ## Contributing
 
