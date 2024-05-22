@@ -11,6 +11,7 @@ A curated list of awesome resources related to enhancing Email Security. Contrib
   - [Email Encryption](#email-encryption)
   - [Phishing Protection](#phishing-protection)
   - [Security Awareness Training](#security-awareness-training)
+  - [Tools](#Tools)
 - [Contributing](#contributing)
 - [License](#license)
 - [Code of Conduct](#code-of-conduct)
@@ -75,6 +76,8 @@ A curated list of awesome resources related to enhancing Email Security. Contrib
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 
+### Tools
+#### Email Header Analysis
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
