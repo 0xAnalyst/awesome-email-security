@@ -100,7 +100,9 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 #### Commercial Email Security Tools
 #### Open Source Email Security Tools
 - **[DMARC Record Analyzer](https://github.com/cisagov/trustymail)** - CISA SPF/DMARC Record Analyzer
-- **[DMARC Report Parser](https://github.com/domainaware/parsedmarc)** - DMARC Report Parser 
+- **[DMARC Report Parser](https://github.com/domainaware/parsedmarc)** - DMARC Report Parser
+- **[DMARC Report Parser](https://github.com/emalderson/ThePhish)** - ThePhish is an automated phishing email analysis tool based on TheHive, Cortex and MISP
+- 
 
 ## Contributing
 
