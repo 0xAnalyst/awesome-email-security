@@ -76,16 +76,6 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 #### User Education and Awareness Programs
 - **[Resource Name](https://example.com)** - Brief description of the resource.
 - **[Resource Name](https://example.com)** - Brief description of the resource.
-### Security Awareness Training
-
-#### Phishing Simulation Platforms
-- **[Resource Name](https://example.com)** - Brief description of the resource.
-- **[Resource Name](https://example.com)** - Brief description of the resource.
-
-#### Employee Training Modules and Courses
-- **[Resource Name](https://example.com)** - Brief description of the resource.
-- **[Resource Name](https://example.com)** - Brief description of the resource.
-
 ### Tools
 #### Email Header Analysis
 - **[Microsoft MHA](https://mha.azurewebsites.net/)** - Microsoft Email Header Analysis.
