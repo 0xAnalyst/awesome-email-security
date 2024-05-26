@@ -7,16 +7,6 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 
 ## Table of Contents
 
-- [Resources](#resources)
-  - [Email Authentication](#email-authentication)
-  - [Email Filtering](#email-filtering)
-  - [Email Encryption](#email-encryption)
-  - [Phishing Protection](#phishing-protection)
-  - [Tools](#Tools)
-  - [Reading](#Reading)
-- [License](#license)
-- [Code of Conduct](#code-of-conduct)
-
  * [Resources](#resources)
     * [Email Authentication](#email-authentication)
     * [Email Authentication](#email-authentication)
@@ -26,6 +16,8 @@ A curated list of awesome resources related to enhancing your enterprise Email S
     * [Tools](#Tools)
     * [Reading](#Reading)
     * [Books](#books)
+* [License](#license)
+* [Code of Conduct](#code-of-conduct)
 ## Resources
 
 ### Email Authentication
