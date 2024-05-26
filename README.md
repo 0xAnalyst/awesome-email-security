@@ -19,33 +19,33 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 ### Email Authentication
 
 #### SPF (Sender Policy Framework)
-- **[SPF Introduction ](https://powerdmarc.com/what-is-spf/)** - SPF Explanation by PowerDMARC.
-- **[SPF Introduction ](https://dmarcian.com/what-is-spf/)**   - SPF Explanation by Dmarcian.
-- **[SPF Record Setup](https://powerdmarc.com/how-to-setup-spf/)** - SPF Record Setup by PowerDMARC.
-- **[SPF Macros](https://duo.com/labs/tech-notes/detecting-phishing-with-spf-macros)** - SPF Macro Explanation.
+* **[SPF Introduction ](https://powerdmarc.com/what-is-spf/)** - SPF Explanation by PowerDMARC.
+* **[SPF Introduction ](https://dmarcian.com/what-is-spf/)**   - SPF Explanation by Dmarcian.
+* **[SPF Record Setup](https://powerdmarc.com/how-to-setup-spf/)** - SPF Record Setup by PowerDMARC.
+* **[SPF Macros](https://duo.com/labs/tech-notes/detecting-phishing-with-spf-macros)** - SPF Macro Explanation.
 
 #### DKIM (DomainKeys Identified Mail)
-- **[DKIM Technical Details](https://easydmarc.com/blog/what-is-a-dkim-signature/)** - Technical Deep Dive on DKIM.
-- **[DKIM record Configuration](https://help.ovhcloud.com/csm/en-dns-zone-dkim?id=kb_article_view&sysparm_article=KB0058258)** - Configuring a DKIM record
+* **[DKIM Technical Details](https://easydmarc.com/blog/what-is-a-dkim-signature/)** - Technical Deep Dive on DKIM.
+* **[DKIM record Configuration](https://help.ovhcloud.com/csm/en-dns-zone-dkim?id=kb_article_view&sysparm_article=KB0058258)** - Configuring a DKIM record
 #### DMARC (Domain-based Message Authentication, Reporting, and Conformance)
-- **[DMARC Introduction](https://www.techfry.com/webmaster-tips/domain-based-message-authentication-reporting-conformance-dmarc)** -  an introductory explanation of DMARC and how it works
-- **[DMARC Explanation](https://www.mailmodo.com/guides/dmarc/)** - Good DMARC alignment explanation.
+* **[DMARC Introduction](https://www.techfry.com/webmaster-tips/domain-based-message-authentication-reporting-conformance-dmarc)** -  an introductory explanation of DMARC and how it works
+* **[DMARC Explanation](https://www.mailmodo.com/guides/dmarc/)** - Good DMARC alignment explanation.
 
 #### BIMI (Brand Indicators for Message Identification)
-- **[BIMI Compete Guide](https://powerdmarc.com/your-complete-guide-to-bimi/)** - BIMI Introduction and Compelete guide.
-- **[BIMI Implementation Guide](https://bimigroup.org/implementation-guide/)** -  BIMI Group Implementation guide
+* **[BIMI Compete Guide](https://powerdmarc.com/your-complete-guide-to-bimi/)** - BIMI Introduction and Compelete guide.
+* **[BIMI Implementation Guide](https://bimigroup.org/implementation-guide/)** -  BIMI Group Implementation guide
 
 #### MTA-STS (Mail Transfer Agent Strict Transport Security)
-- **[MTA-STS Introduction and Implemenation](https://powerdmarc.com/what-is-mta-sts-and-why-do-you-need-it/)** -  A guide on MTA-STS by PowerDMARC
+* **[MTA-STS Introduction and Implemenation](https://powerdmarc.com/what-is-mta-sts-and-why-do-you-need-it/)** -  A guide on MTA-STS by PowerDMARC
 
 ### Email Filtering
 
 #### Anti-Spam Solutions
-- **[Email Filtering concepts](https://abnormalsecurity.com/glossary/email-filters)** - Introduction To email Filtering concepts and different types of spam filtering.
-- **[Exchange Online Email Filtering](https://learn.microsoft.com/en-us/defender-office-365/eop-about)** - Exchange Online Email Filtering Details.
+* **[Email Filtering concepts](https://abnormalsecurity.com/glossary/email-filters)** - Introduction To email Filtering concepts and different types of spam filtering.
+* **[Exchange Online Email Filtering](https://learn.microsoft.com/en-us/defender-office-365/eop-about)** - Exchange Online Email Filtering Details.
 
 #### File Extensions Filtering
-- **[At minimum the following file extensions should be blocked]** 
+* **[At minimum the following file extensions should be blocked]** 
 .jnlp,.pyo,.pyzw,.ps1,.ps1xml,.psc1,.psc2,.psd1,.psdm1,.cdxml,.pssc,.cer,.crt,.der,.appref-ms,.udl,.wsb,.appcontent-ms,.settingcontentms,.cnt,.hpj,.website,.webpnp,.mcf,.printerexport,.pl,.theme,.vbp,.xbap,.xll,.xnk,.msu,.diagcab,.grp,.ins,.isp,.lib,.mde,.msix,.msixbundle,.mst,.nsh,.sys,.vxd,.jar,.exe,.xap,.shs,.lnk,.dll,.air,.msi,.fmx,.odex,.wiz,.dex,.bas,.tcp,.js,.scr,.appx,.accde,.elf,.bats,.deb,.ndr,.app,.fxp,.applications,.sxx,.mexw32,.axf,.oat,.pif,.gambas,.hta,.cpl,.osx,.pyd,.cmd,.irx,.vbs,.bpp,.msp,.vbe,.widget,.arj,.py,.prx,.fox,.rtl,.stx,.apk,.r,.jse,.g3a,.rpm,.azw2,.rxe,.self,.wgt,.msc,.trs,.pyz,.qpkg,.wsf,.cac,.vb,.acx,.dol,.nt,.wwe,.pva,.pe,.dm,.xex,.nexe,.rbtx,.prc,.prg,.frm,.agt,.kmd,.windowslivegroup,.int,.wince,.btm,.pwz,.xip,.8xp,.le,.shb,.jax,.zpkg,.ngage,.dsp,.wsh,.nxe,.fpx,.cfxxe,.ime,.aex,.mex,.gpe,.pgm,.exp,.lit,.dbr,.a6p,.cpp,.run,.dexe,.cas,.abs,.qpx,.acc,.s2a,.sko,.iconfig,.x,.tgz,.xlnk,.ppp9,.lku,.appxbundle,.fqy,.gtp,.ctl,.ppz9,.tzx,.ryb,.chm,.z,.r[0-9{2},.xz,.uue,.lzh,.mcl,.ace,.wsc,.bz,.bz2,.cab,.gz,.iso,.lha,.tar,.taz,.tbz,.tbz2,.txz,.uu,.xxe,.rev,.url,.001,.hlp,.ipa,.dmg,.sct,.reg,.inf,.gadget,.bzip2,.cpio,.fat,.swm,.tpz,.vhd,.wim,.xar,.squashfs,.zipx,.vmdk,.tz,.mim,.b64,.wzmul,.pyc,.vhdx,.pln,.sap,.alz,.xlam,.slk,.wbk,.dwg,.com,.one,.bat,.rdp
 - **[ChatGPT Generated List]** 
 
