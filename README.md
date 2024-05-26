@@ -26,9 +26,8 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 - **[SPF Record Setup](https://powerdmarc.com/how-to-setup-spf/)** - SPF Record Setup by PowerDMARC.
 
 #### DKIM (DomainKeys Identified Mail)
-- **[Resource Name](https://example.com)** - Brief description of the resource.
 - **[DKIM Technical Details](https://easydmarc.com/blog/what-is-a-dkim-signature/)** - Technical Deep Dive on DKIM.
-
+- **[DKIM record Configuration](https://help.ovhcloud.com/csm/en-dns-zone-dkim?id=kb_article_view&sysparm_article=KB0058258)** - Configuring a DKIM record
 #### DMARC (Domain-based Message Authentication, Reporting, and Conformance)
 - **[DMARC Introduction](https://www.techfry.com/webmaster-tips/domain-based-message-authentication-reporting-conformance-dmarc)** -  an introductory explanation of DMARC and how it works
 - **[DMARC Explanation](https://www.mailmodo.com/guides/dmarc/)** - Good DMARC alignment explanation .
