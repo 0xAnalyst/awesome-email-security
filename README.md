@@ -56,11 +56,11 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 ### Email Encryption
 
 #### Transport Layer Security (TLS) for Email Transport
-- **[STARTTLS](https://emaillabs.io/en/what-is-starttls/)** - An Explainer for STARTTLS and Opportunistic TLS vs Forced TLS
-- **[Email Transport Encryption Protocols](https://certified-senders.org/wp-content/uploads/2020/02/Email-Transport-Encryption-STARTTLS-vs.-DANE-vs.-MTA-STS_updated.pdf)** - Explains the difference between STARTLS,DANE,MTA-STS.
+* **[STARTTLS](https://emaillabs.io/en/what-is-starttls/)** - An Explainer for STARTTLS and Opportunistic TLS vs Forced TLS
+* **[Email Transport Encryption Protocols](https://certified-senders.org/wp-content/uploads/2020/02/Email-Transport-Encryption-STARTTLS-vs.-DANE-vs.-MTA-STS_updated.pdf)** - Explains the difference between STARTLS,DANE,MTA-STS.
 
 #### S/MIME [Secure – Multipurpose Internet Mail Extensions]
-- **[STARTTLS](https://docs.servicenow.com/bundle/washingtondc-platform-administration/page/administer/notification/concept/smime-inbound-outbound-mails.html))** - S/MIME Introduction 
+* **[STARTTLS](https://docs.servicenow.com/bundle/washingtondc-platform-administration/page/administer/notification/concept/smime-inbound-outbound-mails.html))** - S/MIME Introduction 
 #### Open PGP [Open Pretty Good Privacy]
 #### GPG [GNU Privacy Guard]
 
@@ -68,28 +68,28 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 ### Phishing Protection
 
 #### Email Content Analysis for Phishing Detection
-- **[Sublime Rules](https://github.com/sublime-security/sublime-rules)** - Sublime Security Open Source Detection Rules .
-- **[Phishing Detection Keywords](https://github.com/0xAnalyst/Awesome-Email-Security/blob/main/PhishingKeywords)** - Phishing Detection Keywords to check for.
+* **[Sublime Rules](https://github.com/sublime-security/sublime-rules)** - Sublime Security Open Source Detection Rules .
+* **[Phishing Detection Keywords](https://github.com/0xAnalyst/Awesome-Email-Security/blob/main/PhishingKeywords)** * Phishing Detection Keywords to check for.
 ### Tools
 #### Email Header Analysis
-- **[Microsoft MHA](https://mha.azurewebsites.net/)** - Microsoft Email Header Analysis.
-- **[Mxtoolbox MHA](https://mxtoolbox.com/EmailHeaders.aspx)** - MxToolBox Email Header Analyzer
-- **[CyberDefenders MHA](https://github.com/cyberdefenders/email-header-analyzer)** - Excellent Email Header Analyzer that can be deployed locally
+* **[Microsoft MHA](https://mha.azurewebsites.net/)** - Microsoft Email Header Analysis.
+* **[Mxtoolbox MHA](https://mxtoolbox.com/EmailHeaders.aspx)** - MxToolBox Email Header Analyzer
+* **[CyberDefenders MHA](https://github.com/cyberdefenders/email-header-analyzer)** - Excellent Email Header Analyzer that can be deployed locally
 
 #### DMARC Reports Analysis
-- **[Mxtoolbox DMARC Report Analyzer](https://mxtoolbox.com/DmarcReportAnalyzer.aspx)** - MxToolBox DMARC Report Analyzer
-- **[OpenSource DMARC Report Analyzer](https://github.com/userjack6880/Open-DMARC-Analyzer)** - Open Source DMARC Report Analyzer 
+* **[Mxtoolbox DMARC Report Analyzer](https://mxtoolbox.com/DmarcReportAnalyzer.aspx)** - MxToolBox DMARC Report Analyzer
+* **[OpenSource DMARC Report Analyzer](https://github.com/userjack6880/Open-DMARC-Analyzer)** - Open Source DMARC Report Analyzer 
 
 #### Commercial Email Security Tools
 #### Open Source Email Security Tools
-- **[DMARC Record Analyzer](https://github.com/cisagov/trustymail)** - CISA SPF/DMARC Record Analyzer
-- **[DMARC Report Parser](https://github.com/domainaware/parsedmarc)** - DMARC Report Parser
-- **[DMARC Report Parser](https://github.com/emalderson/ThePhish)** - ThePhish is an automated phishing email analysis tool based on TheHive, Cortex and MISP
+* **[DMARC Record Analyzer](https://github.com/cisagov/trustymail)** - CISA SPF/DMARC Record Analyzer
+* **[DMARC Report Parser](https://github.com/domainaware/parsedmarc)** - DMARC Report Parser
+* **[DMARC Report Parser](https://github.com/emalderson/ThePhish)** - ThePhish is an automated phishing email analysis tool based on TheHive, Cortex and MISP
 
 
 ### Reading
 #### Books
-- **[Email security: attack and defence](https://leanpub.com/emailsecattackanddefence)** - A book on Email Security
+* **[Email security: attack and defence](https://leanpub.com/emailsecattackanddefence)** - A book on Email Security
   
 
 
