@@ -11,6 +11,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
   - [Email Encryption](#email-encryption)
   - [Phishing Protection](#phishing-protection)
   - [Tools](#Tools)
+  - [Reading](#Reading)
 - [Contributing](#contributing)
 - [License](#license)
 - [Code of Conduct](#code-of-conduct)
@@ -89,7 +90,9 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 - **[DMARC Record Analyzer](https://github.com/cisagov/trustymail)** - CISA SPF/DMARC Record Analyzer
 - **[DMARC Report Parser](https://github.com/domainaware/parsedmarc)** - DMARC Report Parser
 - **[DMARC Report Parser](https://github.com/emalderson/ThePhish)** - ThePhish is an automated phishing email analysis tool based on TheHive, Cortex and MISP
-- 
+
+
+### Reading
 
 ## Contributing
 
