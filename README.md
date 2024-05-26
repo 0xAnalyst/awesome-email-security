@@ -93,6 +93,9 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 
 
 ### Reading
+#### Books
+- **[Email security: attack and defence](https://leanpub.com/emailsecattackanddefence)** - A book on Email Security
+  
 
 ## Contributing
 
