@@ -10,7 +10,6 @@ A curated list of awesome resources related to enhancing your enterprise Email S
   - [Email Filtering](#email-filtering)
   - [Email Encryption](#email-encryption)
   - [Phishing Protection](#phishing-protection)
-  - [Security Awareness Training](#security-awareness-training)
   - [Tools](#Tools)
 - [Contributing](#contributing)
 - [License](#license)
