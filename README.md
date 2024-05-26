@@ -46,7 +46,6 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 
 #### Anti-Spam Solutions
 - **[Email Filtering concepts](https://abnormalsecurity.com/glossary/email-filters)** - Introduction To email Filtering concepts and different types of spam filtering.
-- **[Resource Name](https://example.com)** - Brief description of the resource.
 - **[Exchange Online Email Filtering](https://learn.microsoft.com/en-us/defender-office-365/eop-about)** - Exchange Online Email Filtering Details.
 
 #### File Extensions Filtering
@@ -74,10 +73,6 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 #### Email Content Analysis for Phishing Detection
 - **[Sublime Rules](https://github.com/sublime-security/sublime-rules)** - Sublime Security Open Source Detection Rules .
 - **[Phishing Detection Keywords](https://github.com/0xAnalyst/Awesome-Email-Security/blob/main/PhishingKeywords)** - Phishing Detection Keywords to check for.
-
-#### User Education and Awareness Programs
-- **[Resource Name](https://example.com)** - Brief description of the resource.
-- **[Resource Name](https://example.com)** - Brief description of the resource.
 ### Tools
 #### Email Header Analysis
 - **[Microsoft MHA](https://mha.azurewebsites.net/)** - Microsoft Email Header Analysis.
