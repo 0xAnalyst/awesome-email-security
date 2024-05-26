@@ -72,7 +72,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 
 #### Email Content Analysis for Phishing Detection
 - **[Sublime Rules](https://github.com/sublime-security/sublime-rules)** - Sublime Security Open Source Detection Rules .
-- **[Resource Name](https://example.com)** - Brief description of the resource.
+- **[Phishing Detection Keywords](https://github.com/0xAnalyst/Awesome-Email-Security/blob/main/PhishingKeywords))** - Phishing Detection Keywords to check for.
 
 #### User Education and Awareness Programs
 - **[Resource Name](https://example.com)** - Brief description of the resource.
