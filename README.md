@@ -1,6 +1,6 @@
 # Awesome Email Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome resources related to enhancing your enterprise Email Security. Contributions are welcome!
+A curated list of awesome resources related to enhancing your enterprise Email Security. learn about email security protocols and best practices. Contributions are welcome!
 
 ![email](https://github.com/0xAnalyst/Awesome-Email-Security/assets/893075/726101a0-ab4d-4534-9aab-9daf5d2a6716)
 
