@@ -64,9 +64,8 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 
 #### GPG [GNU Privacy Guard]
 
-* **[STARTTLS](https://emaillabs.io/en/what-is-starttls/)** - An Explainer for STARTTLS and Opportunistic TLS vs Forced TLS
 ### Phishing Protection
-* **[STARTTLS](https://emaillabs.io/en/what-is-starttls/)** - An Explainer for STARTTLS and Opportunistic TLS vs Forced TLS
+
 #### Email Content Analysis for Phishing Detection
 * **[Sublime Rules](https://github.com/sublime-security/sublime-rules)** - Sublime Security Open Source Detection Rules .
 * **[Phishing Detection Keywords](https://github.com/0xAnalyst/Awesome-Email-Security/blob/main/PhishingKeywords)** * Phishing Detection Keywords to check for.
