@@ -5,7 +5,8 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 ![email](https://github.com/0xAnalyst/Awesome-Email-Security/assets/893075/726101a0-ab4d-4534-9aab-9daf5d2a6716)
 
 ## Table of Contents
-* [Resources](#resources) <!--lint ignore awesome-list-item-->
+<!--lint ignore awesome-list-item-->
+* [Resources](#resources) 
     * [Email Authentication](#email-authentication) <!--lint ignore awesome-list-item-->
     * [Email Filtering](#email-filtering) <!--lint ignore awesome-list-item-->
     * [Email Encryption](#email-encryption) <!--lint ignore awesome-list-item-->
