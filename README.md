@@ -59,7 +59,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 * **[Email Transport Encryption Protocols](https://certified-senders.org/wp-content/uploads/2020/02/Email-Transport-Encryption-STARTTLS-vs.-DANE-vs.-MTA-STS_updated.pdf)** - Explains the difference between STARTLS,DANE,MTA-STS.
 
 #### S/MIME [Secure – Multipurpose Internet Mail Extensions]
-* **[STARTTLS](https://docs.servicenow.com/bundle/washingtondc-platform-administration/page/administer/notification/concept/smime-inbound-outbound-mails.html))** - S/MIME Introduction 
+* **[S/MIME Introduction](https://docs.servicenow.com/bundle/washingtondc-platform-administration/page/administer/notification/concept/smime-inbound-outbound-mails.html))** - S/MIME Introduction 
 #### Open PGP [Open Pretty Good Privacy]
 
 #### GPG [GNU Privacy Guard]
