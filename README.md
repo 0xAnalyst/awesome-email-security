@@ -92,10 +92,6 @@ A curated list of awesome resources related to enhancing your enterprise Email S
   
 
 
-## License
-
-Distributed under the MIT License. See `LICENSE` for more information.
-
 ## Code of Conduct
 
 ### Our Pledge
