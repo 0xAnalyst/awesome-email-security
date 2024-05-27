@@ -6,10 +6,11 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 
 ## Table of Contents
 * [Resources](#resources)
-    * [Email Authentication](#email-authentication)
-    * [Email Filtering](#email-filtering)
-    * [Email Encryption](#email-encryption)
-    * [Phishing Protection](#phishing-protection)
+    * [Email Authentication](#email-authentication) <!--lint ignore awesome-list-item-->
+    * [Email Filtering](#email-filtering) <!--lint ignore awesome-list-item-->
+    * [Email Encryption](#email-encryption) <!--lint ignore awesome-list-item-->
+    * [Phishing Protection](#phishing-protection) <!--lint ignore awesome-list-item-->
+
     * [Tools](#Tools)
     * [Reading](#Reading)
     * [Books](#books)
