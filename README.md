@@ -55,11 +55,11 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 #### Transport Layer Security (TLS) for Email Transport
 * **[STARTTLS](https://emaillabs.io/en/what-is-starttls/)** - An Explainer for STARTTLS and Opportunistic TLS vs Forced TLS
 * **[Email Transport Encryption Protocols](https://certified-senders.org/wp-content/uploads/2020/02/Email-Transport-Encryption-STARTTLS-vs.-DANE-vs.-MTA-STS_updated.pdf)** - Explains the difference between STARTLS,DANE,MTA-STS.
-#### S/MIME [Secure – Multipurpose Internet Mail Extensions]
+#### S/MIME[Secure – Multipurpose Internet Mail Extensions]
 * **[S/MIME Introduction](https://docs.servicenow.com/bundle/washingtondc-platform-administration/page/administer/notification/concept/smime-inbound-outbound-mails.html))** - S/MIME Introduction 
-#### Open PGP [Open Pretty Good Privacy]
+#### Open PGP[Open Pretty Good Privacy]
 * **[Introduction to Open PGP](https://www.first.org/pgp/An_Introduction_to_PGP-GnuPG_v1.0.pdf)** - Open PGP Intro
-#### GPG [GNU Privacy Guard]
+#### GPG[GNU Privacy Guard]
 ### Phishing Protection
 
 #### Email Content Analysis for Phishing Detection
