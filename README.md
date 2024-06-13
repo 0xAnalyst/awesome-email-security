@@ -63,7 +63,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 
 #### Email Content Analysis for Phishing Detection
 * [Sublime Rules](https://github.com/sublime-security/sublime-rules) - Sublime Security Open Source Detection Rules.
-* [Phishing Detection Keywords](https://github.com/0xAnalyst/Awesome-Email-Security/blob/main/PhishingKeywords) * Phishing Detection Keywords to check for.
+* [Phishing Detection Keywords](https://github.com/0xAnalyst/Awesome-Email-Security/blob/main/PhishingKeywords) - Phishing Detection Keywords to check for.
 ### Tools
 #### Email Header Analysis
 * [Microsoft MHA](https://mha.azurewebsites.net/) - Microsoft Email Header Analysis.
@@ -83,7 +83,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 
 ### Reading
 #### Books
-* **[Email security: attack and defence](https://leanpub.com/emailsecattackanddefence)** - A book on Email Security
+* [Email security: attack and defence](https://leanpub.com/emailsecattackanddefence) - A book on Email Security
   
 
 
