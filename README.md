@@ -16,8 +16,8 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 ### Email Authentication
 
 #### SPF (Sender Policy Framework)
-  * **[SPF Introduction](https://powerdmarc.com/what-is-spf/)** - SPF Explanation by PowerDMARC.
-  * **[SPF Introduction](https://dmarcian.com/what-is-spf/)**   - SPF Explanation by Dmarcian.
+* [SPF Introduction](https://powerdmarc.com/what-is-spf/)** - SPF Explanation by PowerDMARC.
+* [SPF Introduction](https://dmarcian.com/what-is-spf/)**   - SPF Explanation by Dmarcian.
   * **[SPF Record Setup](https://powerdmarc.com/how-to-setup-spf/)** - SPF Record Setup by PowerDMARC.
   * **[SPF Macros](https://duo.com/labs/tech-notes/detecting-phishing-with-spf-macros)** - SPF Macro Explanation.
 
