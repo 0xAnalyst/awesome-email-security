@@ -25,7 +25,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 * [DKIM Technical Details](https://easydmarc.com/blog/what-is-a-dkim-signature/) - Technical Deep Dive on DKIM.
 * [DKIM record Configuration](https://help.ovhcloud.com/csm/en-dns-zone-dkim?id=kb_article_view&sysparm_article=KB0058258) - Configuring a DKIM record.
 #### DMARC (Domain-based Message Authentication, Reporting, and Conformance)
-* [DMARC Introduction](https://www.techfry.com/webmaster-tips/domain-based-message-authentication-reporting-conformance-dmarc) -  an introductory explanation of DMARC and how it works.
+* [DMARC Introduction](https://www.techfry.com/webmaster-tips/domain-based-message-authentication-reporting-conformance-dmarc) -  An introductory explanation of DMARC and how it works.
 * [DMARC Explanation](https://www.mailmodo.com/guides/dmarc/) - Good DMARC alignment explanation.
 
 #### BIMI (Brand Indicators for Message Identification)
@@ -33,7 +33,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 * [BIMI Implementation Guide](https://bimigroup.org/implementation-guide/) -  BIMI Group Implementation guide.
 
 #### MTA-STS (Mail Transfer Agent Strict Transport Security)
-* [MTA-STS Introduction and Implemenation](https://powerdmarc.com/what-is-mta-sts-and-why-do-you-need-it/) -  A guide on MTA-STS by PowerDMARC
+* [MTA-STS Introduction and Implemenation](https://powerdmarc.com/what-is-mta-sts-and-why-do-you-need-it/) -  A guide on MTA-STS by PowerDMARC.
 
 ### Email Filtering
 
@@ -83,7 +83,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 
 ### Reading
 #### Books
-* [Email security: attack and defence](https://leanpub.com/emailsecattackanddefence) - A book on Email Security
+* [Email security: attack and defence](https://leanpub.com/emailsecattackanddefence) - A book on Email Security.
   
 
 
