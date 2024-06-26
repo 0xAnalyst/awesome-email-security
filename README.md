@@ -90,7 +90,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
   
 
 
-### Code of Conduct
+## Code of Conduct
 
 #### Our Pledge
 
