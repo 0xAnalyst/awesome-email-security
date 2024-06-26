@@ -14,7 +14,6 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 * [Tools](#Tools)
 * [Reading](#Reading)
 * [Books](#books)
-* [Code of Conduct](#code-of-conduct)
   
 ### Email Authentication
 
