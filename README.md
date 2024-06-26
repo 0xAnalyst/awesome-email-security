@@ -13,7 +13,6 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 * [Phishing Protection](#phishing-protection) 
 * [Tools](#Tools)
 * [Reading](#Reading)
-* [Books](#books)
   
 ### Email Authentication
 
