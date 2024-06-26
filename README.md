@@ -2,6 +2,7 @@
 
 A curated list of awesome resources related to enhancing your enterprise Email Security. learn about email security protocols and best practices. Contributions are welcome!
 
+![email](https://github.com/0xAnalyst/Awesome-Email-Security/assets/893075/726101a0-ab4d-4534-9aab-9daf5d2a6716)
 
 ## Contents
 
