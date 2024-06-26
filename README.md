@@ -1,8 +1,9 @@
-# Awesome Email Security
+# Awesome Email Security [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of awesome resources related to enhancing your enterprise Email Security. Contributions are welcome!
+A curated list of awesome resources related to enhancing your enterprise Email Security. learn about email security protocols and best practices. Contributions are welcome!
 
-## Table of Contents
+
+## Contents
 
 - [Email Authentication](#email-authentication)
   - [SPF (Sender Policy Framework)](#spf-sender-policy-framework)
