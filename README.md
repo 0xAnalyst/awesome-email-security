@@ -35,13 +35,13 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 #### MTA-STS (Mail Transfer Agent Strict Transport Security)
 * [MTA-STS Introduction and Implemenation](https://powerdmarc.com/what-is-mta-sts-and-why-do-you-need-it/) -  A guide on MTA-STS by PowerDMARC.
 
-### Email Filtering
+## Email Filtering
 
-#### Anti-Spam Solutions
+### Anti-Spam Solutions
 * [Email Filtering concepts](https://abnormalsecurity.com/glossary/email-filters) - Introduction To email Filtering concepts and different types of spam filtering.
 * [Exchange Online Email Filtering](https://learn.microsoft.com/en-us/defender-office-365/eop-about) - Exchange Online Email Filtering Details.
 
-#### File Extensions Filtering
+### File Extensions Filtering
 **At minimum the following file extensions should be blocked** 
 .jnlp,.pyo,.pyzw,.ps1,.ps1xml,.psc1,.psc2,.psd1,.psdm1,.cdxml,.pssc,.cer,.crt,.der,.appref-ms,.udl,.wsb,.appcontent-ms,.settingcontentms,.cnt,.hpj,.website,.webpnp,.mcf,.printerexport,.pl,.theme,.vbp,.xbap,.xll,.xnk,.msu,.diagcab,.grp,.ins,.isp,.lib,.mde,.msix,.msixbundle,.mst,.nsh,.sys,.vxd,.jar,.exe,.xap,.shs,.lnk,.dll,.air,.msi,.fmx,.odex,.wiz,.dex,.bas,.tcp,.js,.scr,.appx,.accde,.elf,.bats,.deb,.ndr,.app,.fxp,.applications,.sxx,.mexw32,.axf,.oat,.pif,.gambas,.hta,.cpl,.pyd,.cmd,.irx,.vbs,.bpp,.msp,.vbe,.widget,.arj,.py,.prx,.fox,.rtl,.stx,.apk,.r,.jse,.g3a,.rpm,.azw2,.rxe,.self,.wgt,.msc,.trs,.pyz,.qpkg,.wsf,.cac,.vb,.acx,.dol,.nt,.wwe,.pva,.pe,.dm,.xex,.nexe,.rbtx,.prc,.prg,.frm,.agt,.kmd,.windowslivegroup,.int,.wince,.btm,.pwz,.xip,.8xp,.le,.shb,.jax,.zpkg,.ngage,.dsp,.wsh,.nxe,.fpx,.cfxxe,.ime,.aex,.mex,.gpe,.pgm,.exp,.lit,.dbr,.a6p,.cpp,.run,.dexe,.cas,.abs,.qpx,.acc,.s2a,.sko,.iconfig,.x,.tgz,.xlnk,.ppp9,.lku,.appxbundle,.fqy,.gtp,.ctl,.ppz9,.tzx,.ryb,.chm,.z,.r[0-9{2},.xz,.uue,.lzh,.mcl,.ace,.wsc,.bz,.bz2,.cab,.gz,.iso,.lha,.tar,.taz,.tbz,.tbz2,.txz,.uu,.xxe,.rev,.url,.001,.hlp,.ipa,.dmg,.sct,.reg,.inf,.gadget,.bzip2,.cpio,.fat,.swm,.tpz,.vhd,.wim,.xar,.squashfs,.zipx,.vmdk,.tz,.mim,.b64,.wzmul,.pyc,.vhdx,.pln,.sap,.alz,.xlam,.slk,.wbk,.dwg,.com,.one,.bat,.rdp
 **ChatGPT Generated List** 
@@ -50,40 +50,40 @@ A curated list of awesome resources related to enhancing your enterprise Email S
  .exe, .bat, .cmd, .com, .scr, .pif, .msi, .msp, .jar, .vbs, .vbe, .js, .jse, .wsf, .wsh, .ps1, .ps2, .psc1, .psc2, .reg, .docm, .xlsm, .pptm, .xltm, .dotm, .ppsm, .sldm, .pdf, .sh, .csh, .ksh, .tcl, .php, .py, .rb, .pl, .zip, .rar, .7z, .tar, .gz, .bz2, .sys, .dll, .drv, .cpl, .ocx, .inf, .ini, .admx, .adml, .asp, .aspx, .cer, .csr, .crt, .der, .xsl, .dmg, .dmp, .iso, .img, .udf, .tmp, .sql, .bak, .bkp, .cfg, .conf, .dat, .ini, .log, .bak, .old, .backup, .swf, .eml, .msg, .pst, .ost, .oft, .shtml, .phtml, .htm, .html, .xhtml, .xml, .svc, .ashx, .asmx, .axd, .vsdisco, .config, .xslt, .resx, .manifest, .resources, .rc, .res, .dll.config, .exe.config, .cdx, .cs, .cpp, .c, .h, .hpp, .java, .class, .pyc, .pyo, .plc, .pld, .pm, .t, .ph, .xs, .cpl, .inf, .adp, .app, .bas, .bpl, .chm, .cmd, .cpl, .crt, .csh, .fxp, .hlp, .hta, .ins, .isp, .key, .lib, .mda, .mdb, .mde, .mdt, .mdw, .mpa, .msg, .msu, .nls, .ocx, .ops, .pcd, .pif, .prf, .prg, .pst, .rar, .scf, .scr, .sct, .shb, .shs, .sys, .url, .vb, .vbe, .vbs, .vxd, .wsc, .wsf, .wsh, .xll
 
 
-### Email Encryption
-#### Transport Layer Security (TLS) for Email Transport
+## Email Encryption
+### Transport Layer Security (TLS) for Email Transport
 * [STARTTLS](https://emaillabs.io/en/what-is-starttls/) - An Explainer for STARTTLS and Opportunistic TLS vs Forced TLS.
 * [Email Transport Encryption Protocols](https://certified-senders.org/wp-content/uploads/2020/02/Email-Transport-Encryption-STARTTLS-vs.-DANE-vs.-MTA-STS_updated.pdf) - Explains the difference between STARTLS,DANE,MTA-STS.
-#### S/MIME Secure – Multipurpose Internet Mail Extensions
+### S/MIME Secure – Multipurpose Internet Mail Extensions
 * [S/MIME Introduction](https://docs.servicenow.com/bundle/washingtondc-platform-administration/page/administer/notification/concept/smime-inbound-outbound-mails.html)) - S/MIME Introduction. 
-#### Open PGP Open Pretty Good Privacy
+### Open PGP Open Pretty Good Privacy
 * [Introduction to Open PGP](https://www.first.org/pgp/An_Introduction_to_PGP-GnuPG_v1.0.pdf) - Open PGP Intro.
-#### GPG GNU Privacy Guard
+### GPG GNU Privacy Guard
 ### Phishing Protection
 
-#### Email Content Analysis for Phishing Detection
+### Email Content Analysis for Phishing Detection
 * [Sublime Rules](https://github.com/sublime-security/sublime-rules) - Sublime Security Open Source Detection Rules.
 * [Phishing Detection Keywords](https://github.com/0xAnalyst/Awesome-Email-Security/blob/main/PhishingKeywords) - Phishing Detection Keywords to check for.
-### Tools
-#### Email Header Analysis
+## Tools
+### Email Header Analysis
 * [Microsoft MHA](https://mha.azurewebsites.net/) - Microsoft Email Header Analysis.
 * [Mxtoolbox MHA](https://mxtoolbox.com/EmailHeaders.aspx) - MxToolBox Email Header Analyzer.
 * [CyberDefenders MHA](https://github.com/cyberdefenders/email-header-analyzer) - Excellent Email Header Analyzer that can be deployed locally.
 
-#### DMARC Reports Analysis
+### DMARC Reports Analysis
 * [Mxtoolbox DMARC Report Analyzer](https://mxtoolbox.com/DmarcReportAnalyzer.aspx) - MxToolBox DMARC Report Analyzer.
 * [OpenSource DMARC Report Analyzer](https://github.com/userjack6880/Open-DMARC-Analyzer) - Open Source DMARC Report Analyzer. 
 
-#### Commercial Email Security Tools
-#### Open Source Email Security Tools
+### Commercial Email Security Tools
+### Open Source Email Security Tools
 * [DMARC Record Analyzer](https://github.com/cisagov/trustymail) - CISA SPF/DMARC Record Analyzer.
 * [DMARC Report Parser](https://github.com/domainaware/parsedmarc) - DMARC Report Parser.
 * [DMARC Report Parser](https://github.com/emalderson/ThePhish) - ThePhish is an automated phishing email analysis tool based on TheHive, Cortex and MISP.
 
-### Code of Conduct
+## Code of Conduct
 
-### Reading
-#### Books
+## Reading
+### Books
 * [Email security: attack and defence](https://leanpub.com/emailsecattackanddefence) - A book on Email Security.
   
 
