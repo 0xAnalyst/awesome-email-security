@@ -59,6 +59,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 ### Open PGP Open Pretty Good Privacy
 * [Introduction to Open PGP](https://www.first.org/pgp/An_Introduction_to_PGP-GnuPG_v1.0.pdf) - Open PGP Intro.
 ### GPG GNU Privacy Guard
+
 ## Phishing Protection
 ### Email Content Analysis for Phishing Detection
 * [Sublime Rules](https://github.com/sublime-security/sublime-rules) - Sublime Security Open Source Detection Rules.
