@@ -81,8 +81,6 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 * [DMARC Report Parser](https://github.com/domainaware/parsedmarc) - DMARC Report Parser.
 * [DMARC Report Parser](https://github.com/emalderson/ThePhish) - ThePhish is an automated phishing email analysis tool based on TheHive, Cortex and MISP.
 
-## Code of Conduct
-
 ## Reading
 ### Books
 * [Email security: attack and defence](https://leanpub.com/emailsecattackanddefence) - A book on Email Security.
