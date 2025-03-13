@@ -43,7 +43,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 
 ### File Extensions Filtering
 
-* [List of File Extensions to Block](https://github.com/0xAnalyst/awesome-email-security/blob/main/FileExtensionstoblock.md) - A list of file extensions to block depending on your policy .
+* [List of File Extensions to Block](https://github.com/0xAnalyst/awesome-email-security/blob/main/FileExtensionstoblock.md) - A list of file extensions to block depending on your policy.
 
 ## Email Encryption
 ### Transport Layer Security (TLS) for Email Transport
