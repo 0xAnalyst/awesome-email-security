@@ -38,8 +38,8 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 ## Email Filtering
 
 ### Anti-Spam Solutions
-* [Email Filtering concepts](https://abnormalsecurity.com/glossary/email-filters) - Introduction to Email Filtering concepts and different types of spam filtering.
-* [Exchange Online Email Filtering](https://learn.microsoft.com/en-us/defender-office-365/eop-about) - Exchange Online Email Filtering Details.
+* [Email Filtering concepts](https://abnormalsecurity.com/glossary/email-filters) - Introduction to email filtering concepts and different types of spam filtering.
+* [Exchange Online Email Filtering](https://learn.microsoft.com/en-us/defender-office-365/eop-about) - Exchange online email filtering details.
 
 ### File Extensions Filtering
 
