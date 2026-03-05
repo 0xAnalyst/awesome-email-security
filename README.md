@@ -70,6 +70,9 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 * [MxToolBox DMARC Report Analyzer](https://mxtoolbox.com/DmarcReportAnalyzer.aspx) - MxToolBox DMARC Report Analyzer.
 * [Open Source DMARC Report Analyzer](https://github.com/userjack6880/Open-DMARC-Analyzer) - Open Source DMARC Report Analyzer. 
 
+### DNS & Email Security Scanners
+* [IntoDNS.AI](https://intodns.ai) - AI-powered DNS & email security scanner. Checks SPF, DKIM, DMARC, BIMI, MTA-STS, DNSSEC, blacklists and more — no signup required.
+
 ### Commercial Email Security Tools
 ### Open Source Email Security Tools
 * [DMARC Record Analyzer](https://github.com/cisagov/trustymail) - CISA SPF/DMARC Record Analyzer.
