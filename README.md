@@ -65,6 +65,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 * [Microsoft MHA](https://mha.azurewebsites.net/) - Microsoft Email Header Analysis.
 * [MxToolBox MHA](https://mxtoolbox.com/EmailHeaders.aspx) - MxToolBox Email Header Analyzer.
 * [CyberDefenders MHA](https://github.com/cyberdefenders/email-header-analyzer) - Excellent Email Header Analyzer that can be deployed locally.
+* [notspoofed Header Analyzer](https://notspoofed.com/headers) - Browser-based email header analyzer showing the delivery path, hop delays, and why DMARC passed or failed. Runs entirely in the browser, nothing is uploaded. ([Source Code](https://github.com/josepollman-png/notspoofed)) `MIT`
 
 ### DMARC Reports Analysis
 * [MxToolBox DMARC Report Analyzer](https://mxtoolbox.com/DmarcReportAnalyzer.aspx) - MxToolBox DMARC Report Analyzer.
@@ -76,6 +77,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 * [DMARC Report Parser](https://github.com/domainaware/parsedmarc) - DMARC Report Parser.
 * [DMARC Report Parser](https://github.com/emalderson/ThePhish) - ThePhish is an automated phishing email analysis tool based on TheHive, Cortex and MISP.
 * [NetworkWhois Email Validator](https://networkwhois.com/email-validator) - Validate MX, SPF, DKIM, DMARC and get a score with actionable recommendations.
+* [notspoofed](https://notspoofed.com) - Counts SPF DNS lookups against the ten-lookup limit and generates a corrected record, verifies DKIM selector hits are genuine signing keys rather than wildcard DNS responses, and checks whether external DMARC report addresses are authorised to receive reports. ([Source Code](https://github.com/josepollman-png/notspoofed)) `MIT`
 
 ## Reading
 ### Books
