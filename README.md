@@ -20,6 +20,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 * [SPF Introduction Dmarcian](https://dmarcian.com/what-is-spf/)   - SPF Explanation by Dmarcian.
 * [SPF Record Setup](https://powerdmarc.com/how-to-setup-spf/) - SPF Record Setup by PowerDMARC.
 * [SPF Macros](https://duo.com/labs/tech-notes/detecting-phishing-with-spf-macros) - SPF Macro Explanation.
+* [Red Sift SPF Checker](https://redsift.com/tools/spf-checker) - Free SPF record checker with lookup counting and tree visualization by Red Sift.
 
 ### DKIM (DomainKeys Identified Mail)
 * [DKIM Technical Details](https://easydmarc.com/blog/what-is-a-dkim-signature/) - Technical Deep Dive on DKIM.
@@ -27,10 +28,13 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 #### DMARC (Domain-based Message Authentication, Reporting, and Conformance)
 * [DMARC Introduction](https://www.techfry.com/webmaster-tips/domain-based-message-authentication-reporting-conformance-dmarc) -  An introductory explanation of DMARC and how it works.
 * [DMARC Explanation](https://www.mailmodo.com/guides/dmarc/) - Good DMARC alignment explanation.
+* [What is DMARC](https://redsift.com/blog/what-is-dmarc-and-how-does-it-work-effectively) - An explanation of DMARC and how it works by Red Sift.
 
 #### BIMI (Brand Indicators for Message Identification)
 * [BIMI Complete Guide](https://powerdmarc.com/your-complete-guide-to-bimi/) - BIMI Introduction and Compelete guide.
 * [BIMI Implementation Guide](https://bimigroup.org/implementation-guide/) -  BIMI Group Implementation guide.
+* [VMC and CMC Explained](https://redsift.com/blog/vmc-and-cmc-what-are-the-new-requirements) - Explains the new BIMI certificate requirements.
+* [Red Sift BIMI Checker](https://redsift.com/tools/bimi) - Free tool to check BIMI readiness and DMARC enforcement status by Red Sift.
 
 #### MTA-STS (Mail Transfer Agent Strict Transport Security)
 * [MTA-STS Introduction and Implementation](https://powerdmarc.com/what-is-mta-sts-and-why-do-you-need-it/) -  A guide on MTA-STS by PowerDMARC.
@@ -68,9 +72,12 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 
 ### DMARC Reports Analysis
 * [MxToolBox DMARC Report Analyzer](https://mxtoolbox.com/DmarcReportAnalyzer.aspx) - MxToolBox DMARC Report Analyzer.
-* [Open Source DMARC Report Analyzer](https://github.com/userjack6880/Open-DMARC-Analyzer) - Open Source DMARC Report Analyzer. 
+* [Open Source DMARC Report Analyzer](https://github.com/userjack6880/Open-DMARC-Analyzer) - Open Source DMARC Report Analyzer.
+* [Red Sift Investigate](https://redsift.com/tools/investigate) - Free tool for investigating DMARC aggregate report data by Red Sift.
 
 ### Commercial Email Security Tools
+* [Red Sift OnDMARC](https://redsift.com/products/ondmarc) - Commercial DMARC monitoring and enforcement platform by Red Sift.
+  
 ### Open Source Email Security Tools
 * [DMARC Record Analyzer](https://github.com/cisagov/trustymail) - CISA SPF/DMARC Record Analyzer.
 * [DMARC Report Parser](https://github.com/domainaware/parsedmarc) - DMARC Report Parser.
