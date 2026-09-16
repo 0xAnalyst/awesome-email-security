@@ -27,6 +27,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 #### DMARC (Domain-based Message Authentication, Reporting, and Conformance)
 * [DMARC Introduction](https://www.techfry.com/webmaster-tips/domain-based-message-authentication-reporting-conformance-dmarc) -  An introductory explanation of DMARC and how it works.
 * [DMARC Explanation](https://www.mailmodo.com/guides/dmarc/) - Good DMARC alignment explanation.
+* [SPF and DMARC Statistics 2026](https://www.stackscan.com/blog/spf-dmarc-statistics) - Measured SPF and DMARC adoption across the 173.1 million domains on the internet that can receive mail.
 
 #### BIMI (Brand Indicators for Message Identification)
 * [BIMI Complete Guide](https://powerdmarc.com/your-complete-guide-to-bimi/) - BIMI Introduction and Compelete guide.
