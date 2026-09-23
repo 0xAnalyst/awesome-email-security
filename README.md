@@ -65,6 +65,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 * [Microsoft MHA](https://mha.azurewebsites.net/) - Microsoft Email Header Analysis.
 * [MxToolBox MHA](https://mxtoolbox.com/EmailHeaders.aspx) - MxToolBox Email Header Analyzer.
 * [CyberDefenders MHA](https://github.com/cyberdefenders/email-header-analyzer) - Excellent Email Header Analyzer that can be deployed locally.
+* [Email Header Analyzer by Rafael Pfister](https://rafaelpfister.ch/en/tools/header-analyzer) - Browser-only header analyzer: Received chain with transit times, SPF/DKIM/DMARC results and alignment, ARC and spam-filter fields; the header never leaves the browser.
 
 ### DMARC Reports Analysis
 * [MxToolBox DMARC Report Analyzer](https://mxtoolbox.com/DmarcReportAnalyzer.aspx) - MxToolBox DMARC Report Analyzer.
@@ -76,6 +77,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 * [DMARC Report Parser](https://github.com/domainaware/parsedmarc) - DMARC Report Parser.
 * [DMARC Report Parser](https://github.com/emalderson/ThePhish) - ThePhish is an automated phishing email analysis tool based on TheHive, Cortex and MISP.
 * [NetworkWhois Email Validator](https://networkwhois.com/email-validator) - Validate MX, SPF, DKIM, DMARC and get a score with actionable recommendations.
+* [Mail DNS Check](https://rafaelpfister.ch/en/tools/mail-check) - Checks MX, SPF, DKIM, DMARC, MTA-STS and DANE for a domain in one run.
 
 ## Reading
 ### Books
