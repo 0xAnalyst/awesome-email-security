@@ -76,6 +76,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 * [DMARC Report Parser](https://github.com/domainaware/parsedmarc) - DMARC Report Parser.
 * [DMARC Report Parser](https://github.com/emalderson/ThePhish) - ThePhish is an automated phishing email analysis tool based on TheHive, Cortex and MISP.
 * [NetworkWhois Email Validator](https://networkwhois.com/email-validator) - Validate MX, SPF, DKIM, DMARC and get a score with actionable recommendations.
+* [mail-security-auditor](https://github.com/CanuteTheGreat/mail-security-auditor) - Zero-dependency single-file Python 3 CLI that audits SPF/DKIM/DMARC/MX hygiene for one or more domains, with text/JSON/HTML output and a CI-gating exit code; implements its own minimal RFC 1035 DNS client so it runs with no pip installs. (Note: made by this list's contributor.)
 
 ## Reading
 ### Books
