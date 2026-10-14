@@ -27,6 +27,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 #### DMARC (Domain-based Message Authentication, Reporting, and Conformance)
 * [DMARC Introduction](https://www.techfry.com/webmaster-tips/domain-based-message-authentication-reporting-conformance-dmarc) -  An introductory explanation of DMARC and how it works.
 * [DMARC Explanation](https://www.mailmodo.com/guides/dmarc/) - Good DMARC alignment explanation.
+* [Bulk Sender Requirements](https://github.com/WarmerlyApp/bulk-sender-requirements) - Open dataset of what Gmail, Yahoo and Outlook.com require from bulk senders (SPF, DKIM, DMARC, unsubscribe, spam rate), with a source for each.
 
 #### BIMI (Brand Indicators for Message Identification)
 * [BIMI Complete Guide](https://powerdmarc.com/your-complete-guide-to-bimi/) - BIMI Introduction and Compelete guide.
