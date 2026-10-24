@@ -71,6 +71,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 * [Open Source DMARC Report Analyzer](https://github.com/userjack6880/Open-DMARC-Analyzer) - Open Source DMARC Report Analyzer. 
 
 ### Commercial Email Security Tools
+* [Cirlet email-domain check](https://aicybersecurityforinsuranceagencies.com/tools/email-check) - Free hosted SPF/DMARC public DNS lookup with a downloadable provider report; no account audit or security score.
 ### Open Source Email Security Tools
 * [DMARC Record Analyzer](https://github.com/cisagov/trustymail) - CISA SPF/DMARC Record Analyzer.
 * [DMARC Report Parser](https://github.com/domainaware/parsedmarc) - DMARC Report Parser.
