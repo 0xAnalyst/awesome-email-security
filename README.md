@@ -65,10 +65,12 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 * [Microsoft MHA](https://mha.azurewebsites.net/) - Microsoft Email Header Analysis.
 * [MxToolBox MHA](https://mxtoolbox.com/EmailHeaders.aspx) - MxToolBox Email Header Analyzer.
 * [CyberDefenders MHA](https://github.com/cyberdefenders/email-header-analyzer) - Excellent Email Header Analyzer that can be deployed locally.
+* [EmailHealth Header Analyzer](https://emailhealth.app/email-header-analyzer) - Paste raw headers and see the SPF, DKIM and DMARC results, the hops and the delays.
 
 ### DMARC Reports Analysis
 * [MxToolBox DMARC Report Analyzer](https://mxtoolbox.com/DmarcReportAnalyzer.aspx) - MxToolBox DMARC Report Analyzer.
 * [Open Source DMARC Report Analyzer](https://github.com/userjack6880/Open-DMARC-Analyzer) - Open Source DMARC Report Analyzer. 
+* [EmailHealth DMARC Report Parser](https://emailhealth.app/dmarc-report-parser) - Open a DMARC aggregate report (XML, gzip or zip) and see each sending source.
 
 ### Commercial Email Security Tools
 ### Open Source Email Security Tools
