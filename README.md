@@ -69,6 +69,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 ### DMARC Reports Analysis
 * [MxToolBox DMARC Report Analyzer](https://mxtoolbox.com/DmarcReportAnalyzer.aspx) - MxToolBox DMARC Report Analyzer.
 * [Open Source DMARC Report Analyzer](https://github.com/userjack6880/Open-DMARC-Analyzer) - Open Source DMARC Report Analyzer. 
+* [PageUtil DMARC Report Analyser](https://pageutil.com/dmarc-report-analyser/) - Free, browser-based analysis of DMARC XML, GZIP and ZIP reports, with batch comparisons and CSV exports. Reports are processed locally.
 
 ### Commercial Email Security Tools
 ### Open Source Email Security Tools
