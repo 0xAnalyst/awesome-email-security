@@ -76,6 +76,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 * [DMARC Report Parser](https://github.com/domainaware/parsedmarc) - DMARC Report Parser.
 * [DMARC Report Parser](https://github.com/emalderson/ThePhish) - ThePhish is an automated phishing email analysis tool based on TheHive, Cortex and MISP.
 * [NetworkWhois Email Validator](https://networkwhois.com/email-validator) - Validate MX, SPF, DKIM, DMARC and get a score with actionable recommendations.
+* [InboxShield](https://github.com/zColdWater/inboxshield-cli) - Zero-dependency MIT CLI and free online 6-phase email authentication auditor (recursive SPF 10-lookup flattener, 24 DKIM selectors, strict RFC 7489 DMARC syntax linter, MTA-STS, TLS-RPT, BIMI, and 5 DNSBLs) + [2026 Top 60 SaaS Email Auth Benchmark](https://zcoldwater.github.io/inboxshield-cli/top-60-saas-email-authentication-benchmark-2026.html).
 
 ## Reading
 ### Books
