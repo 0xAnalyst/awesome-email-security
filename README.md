@@ -27,6 +27,7 @@ A curated list of awesome resources related to enhancing your enterprise Email S
 #### DMARC (Domain-based Message Authentication, Reporting, and Conformance)
 * [DMARC Introduction](https://www.techfry.com/webmaster-tips/domain-based-message-authentication-reporting-conformance-dmarc) -  An introductory explanation of DMARC and how it works.
 * [DMARC Explanation](https://www.mailmodo.com/guides/dmarc/) - Good DMARC alignment explanation.
+* [MyIPScan DMARC Checker](https://myipscan.net/tools/dmarc-checker) - Free lookup of a domain's DMARC policy: enforcement mode, subdomain policy and reporting addresses.
 
 #### BIMI (Brand Indicators for Message Identification)
 * [BIMI Complete Guide](https://powerdmarc.com/your-complete-guide-to-bimi/) - BIMI Introduction and Compelete guide.
